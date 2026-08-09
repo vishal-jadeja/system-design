@@ -1,0 +1,16 @@
+# Obsidian — machine-specific UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Source books / papers — too large for git, keep local
+books/
+*.pdf
+*.epub
+*.mobi
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
